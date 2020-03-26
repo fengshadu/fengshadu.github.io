@@ -10,6 +10,7 @@ tags:
     - 笔记
     - Web
     - JavaScript
+    - html2cavnas
 ---
 # 使用html2canvas生成图片遇到的坑
 
