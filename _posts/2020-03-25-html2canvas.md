@@ -11,6 +11,7 @@ tags:
     - Web
     - JavaScript
     - html2cavnas
+    - 前端开发
 ---
 # 使用html2canvas生成图片遇到的坑
 
