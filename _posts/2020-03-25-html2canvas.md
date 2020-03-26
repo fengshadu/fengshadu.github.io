@@ -1,4 +1,4 @@
----
+<!-- ---
 layout:     post
 title:      "使用html2canvas生成图片遇到的坑"
 subtitle:   "canvas2html，跨域，canvas 归纳笔记"
@@ -12,6 +12,18 @@ tags:
     - JavaScript
     - html2cavnas
     - 前端开发
+--- -->
+---
+layout:     post
+title:      "hUX 随想录（二）：操作系统的浪漫主义 —— Metro 篇"
+subtitle:   "信息、载体、抽象、UI 设计乱谈"
+date:       2015-04-15
+author:     "Hux"
+header-img: "img/post-bg-os-metro.jpg"
+catalog: true
+tags:
+  - hUX 随想录
+  - UX/UI 
 ---
 # 使用html2canvas生成图片遇到的坑
 
